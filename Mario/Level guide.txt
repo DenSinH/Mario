@@ -1,0 +1,17 @@
+Q = Question block with item
+q = Question block with coin
+B = Bricks with coin
+b = Bricks
+> = Horizontal pipe piece (always 2 above eachother)
++ = Pipe connector (horizontal to vertical)
+v = Vertical pipe piece (always 2 next to eachother)
+G = Ground
+X = X block
+1, 2, 3 etc. = Determined pipe tops (both vertical and horizontal, always 2 next to eachother)
+P = Pipe tops (both vertical and horizontal, always 2 next to eachother)
+g = Goomba
+K = Red koopa
+k = Green koopa
+
+
+Levels by default are 14 tiles high (14 lines long)
